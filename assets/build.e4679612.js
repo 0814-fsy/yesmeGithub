@@ -1,1 +1,1 @@
-var a="/assets/build.df478a2b.svg";export{a as default};
+var s="/yesmeGithub/assets/build.df478a2b.svg";export{s as default};

@@ -1,1 +1,1 @@
-var a="/assets/email.29d2e375.svg";export{a as default};
+var e="/yesmeGithub/assets/email.29d2e375.svg";export{e as default};

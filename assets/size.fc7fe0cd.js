@@ -1,1 +1,1 @@
-var s="/assets/size.fb05acae.svg";export{s as default};
+var e="/yesmeGithub/assets/size.fb05acae.svg";export{e as default};

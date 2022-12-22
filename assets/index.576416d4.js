@@ -1,0 +1,1 @@
+import{_ as e,z as _,r as t,o as a,c as s}from"./index.b02250c1.js";const n={class:"app-container home"},o=_({name:"Index"}),c=Object.assign(o,{setup(r){return t("3.8.3"),(d,p)=>(a(),s("div",n," 123 "))}});var f=e(c,[["__scopeId","data-v-2def4e96"]]);export{f as default};

@@ -1,1 +1,1 @@
-var s="/assets/redis.219b773c.svg";export{s as default};
+var s="/yesmeGithub/assets/redis.219b773c.svg";export{s as default};

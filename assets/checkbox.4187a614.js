@@ -1,1 +1,1 @@
-var c="/assets/checkbox.c4f0703b.svg";export{c as default};
+var e="/yesmeGithub/assets/checkbox.c4f0703b.svg";export{e as default};

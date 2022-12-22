@@ -1,1 +1,0 @@
-import{_ as o,d as c,o as n,c as s,e as t,n as a}from"./index.41c72bba.js";const r={},_=a(" \u8868\u5355\u6784\u5EFA ");function d(i,l){const e=c("svg-icon");return n(),s("div",null,[_,t(e,{"icon-class":"build"})])}var m=o(r,[["render",d]]);export{m as default};

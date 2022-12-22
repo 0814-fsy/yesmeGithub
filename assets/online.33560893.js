@@ -1,0 +1,1 @@
+import{H as t}from"./index.b02250c1.js";function r(o){return t({url:"/monitor/online/list",method:"get",params:o})}function n(o){return t({url:"/monitor/online/"+o,method:"delete"})}export{n as f,r as l};
